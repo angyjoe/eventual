@@ -9,9 +9,9 @@ object ApplicationBuild extends Build {
 
   val appDependencies = Seq(
     // ReactiveMongo dependencies
-    "org.reactivemongo" %% "reactivemongo" % "0.9",
+    "org.reactivemongo" %% "reactivemongo" % "0.10.0",
     // ReactiveMongo Play plugin dependencies
-    "org.reactivemongo" %% "play2-reactivemongo" % "0.9"
+    "org.reactivemongo" %% "play2-reactivemongo" % "0.10.0"
   )
 
 
