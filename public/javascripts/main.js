@@ -2,7 +2,7 @@
  * Author: Sari Haj Hussein
  */
 var app = angular.module("app", ["ngResource", "ngRoute"])
-	.constant("apiUrl", "http://localhost:9000/api")
+	.constant("apiUrl", "/api")
 	.config(["$routeProvider", function($routeProvider) {
 		return $routeProvider.when("/", {
 			templateUrl: "/views/main",
