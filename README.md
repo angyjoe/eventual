@@ -40,11 +40,11 @@ The seed uses the following software components:
 
 2. MongoDB 2.6.3
 
-3. AngularJS 1.2.19
+3. AngularJS 1.3.8
 
-4. Bootstrap 3.2.0
+4. Bootstrap 3.3.1
 
-5. jQuery 1.11.1 (used by 4)
+5. jQuery 1.11.2 (used by 4)
 
 ## Deployment
 Follow these steps in order to deploy the seed on your machine:
