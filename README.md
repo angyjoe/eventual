@@ -25,7 +25,7 @@ The seed has the following features (to recall a few):
 
 4. It packs JavaScript libraries inside the solution (i.e., no WebJars, no download time, and again no bullshit).
 
-5. It makes minimal usage of [Play Scala templates](http://www.playframework.com/documentation/2.1.5/ScalaTemplates), thereby clearing the space for AngularJS directives in your HTML.
+5. It makes minimal usage of [Play Scala templates](https://www.playframework.com/documentation/2.2.3/ScalaTemplates), thereby clearing the space for AngularJS directives in your HTML.
 
 6. It cleanly separates between Play routes that serve HTML and those that serve JSON.
 
