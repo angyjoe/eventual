@@ -67,13 +67,13 @@ Follow these steps in order to deploy the seed on your machine:
 
 ## Screenshots
 
-#### Celebrities List
+### Celebrities List
 ![Celebrities List](./screenshots/Celebrities%20List.png)
 
-#### Adding a Celebrity
+### Adding a Celebrity
 ![Adding a Celebrity](./screenshots/Adding%20a%20Celebrity.png)
 
-#### Editing/Deleting a Celebrity
+### Editing/Deleting a Celebrity
 ![Editing a Celebrity](./screenshots/Editing-Deleting%20a%20Celebrity.png)
 
 ## Q&A
